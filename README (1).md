@@ -86,4 +86,4 @@ Puja els canvis al remot desde terminal.Fes captura al terminal.
 
 Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.
 
-https://sbert-dasilva-adria-examen2425-eenc5l65b-adrisbert06s-projects.vercel.app
+https://sbert-dasilva-adri-examen2425-9e10x57oj-adrisbert06s-projects.vercel.app
